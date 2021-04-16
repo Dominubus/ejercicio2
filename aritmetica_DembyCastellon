@@ -6,3 +6,6 @@ int resta(int b, int c){
           return b-c;
 }
 
+int dividir(int a, int b){
+	return a/b
+}
